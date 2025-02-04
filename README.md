@@ -2,7 +2,7 @@
 
 ### Install dependcies
 
-I am using `python 3.12.8` wot implement an example of `htmx==2.0.4` with `litestar[standard] 2.14`.
+I am using `python 3.12.8` to implement an example of `htmx==2.0.4` with `litestar[standard] 2.14`.
 
 ```bash
 pip install -r requirements.txt
