@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Vscode Settings
+.vscode/
+
+# Donot include tailwindcss_v4 folder to commit in git
+tailwindcss/
